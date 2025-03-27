@@ -1,6 +1,4 @@
-Commentaire : ajouter un peu de sel
-
-# 🥔 Gnocchis sauce crème-épinards avec oignons confits, accompagnés de manchons de canard 🍗
+# 🥔 Gnocchis sauce crème-épinards avec oignons confits, accompagnés de manchons de canard revisité 🍗
 
 ## 🛒 Ingrédients (pour 4 personnes)  
 
@@ -61,3 +59,4 @@ Commentaire : ajouter un peu de sel
 1. Faire revenir les gnocchis égouttés dans une poêle avec un peu de beurre jusqu’à ce qu’ils soient dorés.  
 2. Ajouter la sauce crème-épinards et bien mélanger.  
 3. Servir les gnocchis dans une assiette, ajouter les oignons confits et disposer un manchon de canard par personne.  
+C'est une recette de gnoccis au final !
