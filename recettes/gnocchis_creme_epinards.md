@@ -1,3 +1,5 @@
+Commentaire : ajouter un peu de sel
+
 # 🥔 Gnocchis sauce crème-épinards avec oignons confits, accompagnés de manchons de canard 🍗
 
 ## 🛒 Ingrédients (pour 4 personnes)  
